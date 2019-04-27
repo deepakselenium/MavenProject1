@@ -7,12 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 
-/**
- * 
- * 
- * @author deepakkumarbehera
- *
- */
+
 
 public class NewTest {
 	
